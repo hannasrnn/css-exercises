@@ -25,3 +25,31 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+.content {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  display: flex;
+  text-decoration: none;
+  color: darkgrey;
+  font: bolder;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.left-links {
+  display: flex;
+  justify-content: flex-start
+}
+
+.right-links{
+  display: flex;
+  justify-content: flex-end;
+}
