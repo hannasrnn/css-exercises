@@ -22,8 +22,8 @@ body {
   background: #eee;
   color: darkmagenta;
   flex-direction: column;
-  justify-content: flex-end;
   text-align: center;
+  padding-top: 32px;
 }
 
 .sidebar {
